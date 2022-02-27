@@ -101,7 +101,7 @@ let homeViewStyle = `
 class HomeView extends BaseView {
   constructor() {
     super();
-    this.setTitle('Whealthier - Home');
+    this.setTitle('Smartfit - Home');
   }
   
   async getHtml() {
@@ -123,7 +123,7 @@ class HomeView extends BaseView {
           <h2>Diet Planner</h2>
           <p>
             Eating healthy food is one of the best ways you can maintain your
-            health. At Whealthier, we provide a diet planner which generates a
+            health. At Smartfit, we provide a diet planner which generates a
             personalized diet plan according to your health and food preferences.
           </p>
           <a href="/diet-planner" spa-page-link="true">Go there</a>
@@ -134,7 +134,7 @@ class HomeView extends BaseView {
             Along with physical health maintaining mental health is necessary
             for a healthy life. Immerse your mind into complete relaxation with
             assisted breathing and ambient background music at the meditation
-            corner at Whealthier.
+            corner at Smartfit.
           </p>
           <a href="/meditation-corner" spa-page-link="true">Go there</a>
         </div>
@@ -144,7 +144,7 @@ class HomeView extends BaseView {
             Knowing your macros is very important if you follow a regular
             health routine. And we also provide a macro calculator for that.
             Along with the body macros it also shows other information like
-            Body Fat Percentage, Daily Calorie Intake, etc...
+            Body Fat Percentage, Daily Calorie Intake, etc.
           </p>
           <a href="/macro-calculator" spa-page-link="true">Go there</a>
         </div>
@@ -152,7 +152,7 @@ class HomeView extends BaseView {
           <h2>Disease Info</h2>
           <p>
             Getting a breif information about a less vulnerable disease is
-            better than consulting your doctor. At Whealthier, we provide a
+            better than consulting your doctor. At Smartfit, we provide a
             feature which can give you a detailed summary of a disease.
           </p>
           <a href="/disease-info" spa-page-link="true">Go there</a>
