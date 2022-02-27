@@ -101,33 +101,29 @@ class AboutView extends BaseView {
       <h2>About</h2>
       <div class="container">
         <p>
-          <span class="product">Whealthier</span> is a platform that can make your day
-          healthy. At <span class="product">Whealthier</span> we offer many features
-          from a diet planner to a meditation corner. <span class="product">Whealthier
+          <span class="product">Smartfit</span> is a platform that can make your day
+          healthy. At <span class="product">Smartfit</span> we offer many features
+          from a diet planner to a meditation corner. <span class="product">Smartfit
           </span> is made in such a way that it can be used across almost all
           devices. <span class="product">Be healthy, Be happy!</span>
         </p>
         <img src="https://ik.imagekit.io/pzrj7oa3hsd/timathon-health/about-us_cj2VFvDrc.png?updatedAt=1630244931913"/>
       </div>
       <section-break></section-break>
-      <h2>Contributors</h2>
+      <h2>Group</h2>
       <div class="c-container">
         <div class="c-card">
-          <img src="https://github.com/codingwith3dv.png"/>
-          <h3>Coding With 3DV</h3>
+          <img src="">
+          <h3>37</h3>
           <p>
-            I'm a 14 year-old high school student and a full-stack web
-            developer. Coding is one my favourite field of interest. 
-            I usually use C/C++ and Typescript/Javascript everytime.
+      
           </p>
         </div>
         <div class="c-card">
           <img src="https://github.com/daki-DM.png"/>
           <h3>Daki</h3>
           <p>
-            I'm a 14 year-old from Slovenia. And I am a frontend web developer.
-            I am very passionate on programming and I usually use HTML/CSS/Javascript
-            and Python everytime.
+            
           </p>
         </div>
       </div>
