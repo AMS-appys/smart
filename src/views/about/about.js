@@ -120,8 +120,8 @@ class AboutView extends BaseView {
           </p>
         </div>
         <div class="c-card">
-          <img src="https://github.com/daki-DM.png"/>
-          <h3>Daki</h3>
+          <img src="https://images.static-collegedunia.com/public/college_data/images/logos/1478684270logo2.jpg"/>
+          <h3>SJCEM</h3>
           <p>
             
           </p>
