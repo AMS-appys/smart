@@ -6,7 +6,7 @@ import {
 class MeditationCornerView extends BaseView {
     constructor() {
         super();
-        this.setTitle('Whealthier - Meditation Corner');
+        this.setTitle('Smartfit - Meditation Corner');
     }
     async getHtml() {
         let htmlString = `<meditation-corner-component/>`;
