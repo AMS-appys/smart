@@ -6,7 +6,7 @@ import {
 class DiseaseInfo extends BaseView {
   constructor() {
     super();
-    this.setTitle('Whealthier - Disease Info');
+    this.setTitle('Smartfit - Disease Info');
   }
   async getHtml() {
     return `<disease-info/>`;
