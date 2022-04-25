@@ -157,13 +157,7 @@ class HomeView extends BaseView {
           </p>
           <a href="/disease-info" spa-page-link="true">Go there</a>
         </div>
-        <div class="feature-card">
-          <h2>Care</h2>
-          <p>
-           ....
-          </p>
-          <a href="/macro-calculator" spa-page-link="true">Go there</a>
-        </div>
+        
       </div>
 
     </div>
